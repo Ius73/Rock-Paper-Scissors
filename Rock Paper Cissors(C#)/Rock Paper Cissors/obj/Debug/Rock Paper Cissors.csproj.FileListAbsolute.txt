@@ -1,0 +1,8 @@
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\bin\Debug\Rock Paper Cissors.exe.config
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\bin\Debug\Rock Paper Cissors.exe
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\bin\Debug\Rock Paper Cissors.pdb
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\obj\Debug\Rock Paper Cissors.csproj.AssemblyReference.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\obj\Debug\Rock Paper Cissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\obj\Debug\Rock Paper Cissors.csproj.CoreCompileInputs.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\obj\Debug\Rock Paper Cissors.exe
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Rock Paper Cissors\Rock Paper Cissors\obj\Debug\Rock Paper Cissors.pdb
