@@ -49,8 +49,7 @@ while True:  # start the program loop
         if check_wins(computer_hand, user_hand):  # use the output of the function as true or false
             computer_score += 1  # add one to the computer score
             txt = "you Lost {} is weak against {}"  # user looses
-            print(txt.format(hands[user_hand],
-                             hands[computer_hand]))  # user_hand is the index that call a name inside hands
+            print(txt.format(hands[user_hand],hands[computer_hand]))  # user_hand is the index that call a name inside hands
     else:  # if the user inputs unaccepted
         print("error, insert a numer from 1 to 3")  # display an error message
         continue  # continue to the next loop
