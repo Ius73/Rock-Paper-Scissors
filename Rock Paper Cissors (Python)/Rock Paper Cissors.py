@@ -45,8 +45,7 @@ while True:  # start the program loop
         if check_wins(user_hand, computer_hand):  # use the output of the function as true or false
             user_score += 1  # add one to the user score
             txt = "You Won {} is strong against {}"  # user wins
-            print(txt.format(hands[user_hand],
-                             hands[computer_hand]))  # user_hand is the index that call a name inside hands
+            print(txt.format(hands[user_hand],hands[computer_hand]))  # user_hand is the index that call a name inside hands
         if check_wins(computer_hand, user_hand):  # use the output of the function as true or false
             computer_score += 1  # add one to the computer score
             txt = "you Lost {} is weak against {}"  # user looses
